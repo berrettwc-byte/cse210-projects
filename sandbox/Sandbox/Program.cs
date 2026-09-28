@@ -56,7 +56,7 @@ class Program
 
 
 
-        // List<string> myFriends = new List<string> = ["Bob", "Betty", "Bubba"];
+        // List<string> myFriends = new List<string>("Bob", "Betty", "Bubba");
 
         // myFriends.Add("doug");
 
